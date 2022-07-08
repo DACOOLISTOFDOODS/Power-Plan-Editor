@@ -1,0 +1,17 @@
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\bin\Debug\net6.0-windows\PowerPlanEditor.exe
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\bin\Debug\net6.0-windows\PowerPlanEditor.deps.json
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\bin\Debug\net6.0-windows\PowerPlanEditor.runtimeconfig.json
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\bin\Debug\net6.0-windows\PowerPlanEditor.dll
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\bin\Debug\net6.0-windows\PowerPlanEditor.pdb
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.csproj.AssemblyReference.cache
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.Form1.resources
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.csproj.GenerateResource.cache
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.AssemblyInfoInputs.cache
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.AssemblyInfo.cs
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.csproj.CoreCompileInputs.cache
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.dll
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\refint\PowerPlanEditor.dll
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.pdb
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\PowerPlanEditor.genruntimeconfig.cache
+C:\Users\darth\Desktop\Coding\Projects\PowerPlanEditor\obj\Debug\net6.0-windows\ref\PowerPlanEditor.dll
